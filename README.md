@@ -26,6 +26,10 @@ The system is **fault-tolerant**, **GPU accelerated**, **highly parallelized**, 
 
 ---
 
+### Hosted API Endpoint - https://unspayed-ruefully-neville.ngrok-free.dev/extract-bill-data
+
+---
+
 # 🚀 Key Features
 
 ### 🔍 1. Intelligent Document Routing  
